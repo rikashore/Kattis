@@ -1,7 +1,7 @@
 --[[
     Solving a new alphabet problem
     https://open.kattis.com/problems/anewalphabet
-]]
+]]--
 
 local letters = {
     ["a"] = "@",
