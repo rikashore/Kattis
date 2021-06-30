@@ -19,5 +19,7 @@ public class QuadrantSelector {
         } else {
             System.out.println("Invalid");
         }
+
+        sc.close();
     }
 }
